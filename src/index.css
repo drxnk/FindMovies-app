@@ -1,0 +1,24 @@
+* {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+body {
+  background: #121212;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: #e81409;
+  transition: 0.5s;
+}
+
+a:hover {
+  color: #8f1913;
+}
+
